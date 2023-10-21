@@ -1,2 +1,3 @@
 # First-Target-Vintern
 The first target of the Java DSA (Data Structures and Algorithms) internship from VIntern
+in the context of developing a web application for GUI-based quizzes, involves creating the foundational structure for the quiz platform. This includes designing the user interface (GUI) for the quiz application, implementing data structures to store and manage quiz questions and user responses, and developing the basic functionality for users to interact with the quizzes. The primary focus at this stage is to establish the core framework for the web application, ensuring it can efficiently handle quizzes, questions, and user interactions.
